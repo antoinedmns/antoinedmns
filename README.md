@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a weather application.**
 
-- 🌱 I’m currently learning **TypeScript.**
+- 🌱 I’m currently learning **React.**
 
 <p align="left">
 </p>
