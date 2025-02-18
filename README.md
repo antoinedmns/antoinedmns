@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinedmns&label=Profile%20views&color=0e75b6&style=flat" alt="antoinedmns" /> </p>
 
-- 🔭 I’m currently working on **nothing.**
+- 🔭 I’m currently working on **a weather application.**
 
-- 🌱 I’m currently learning **C, Java and much more...**
+- 🌱 I’m currently learning **TypeScript.**
 
 <p align="left">
 </p>
